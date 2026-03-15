@@ -1,0 +1,17 @@
+{
+  "name" : "sprantic-services",
+  "owner" : {
+    "name" : "sprantic GmbH"
+  },
+  "plugins" : [
+    {
+      "name" : "services",
+      "source" : {
+	  "source" : "github",
+	  "repo" : "sprantic/sprantic-plugin-services",
+	  "ref" : "main"
+      },
+      "description" : "Adds the Services consulting and delivery workflow"
+    }
+  ]
+}
