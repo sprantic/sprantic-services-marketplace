@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "plugins": [
+    {
+      "name": "sprantic-plugin-services",
+      "description": "Services consulting and delivery",
+      "repository": "https://github.com/sprantic/sprantic-plugin-services.git"
+    }
+  ]
+}
