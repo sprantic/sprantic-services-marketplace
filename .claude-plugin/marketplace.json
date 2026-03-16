@@ -14,7 +14,7 @@
       "description" : "Adds the Services consulting and delivery workflow"
     },
     {
-      "name" : "sprantic-html-presentation",
+      "name" : "sprantic-html",
       "source" : {
 	  "source" : "github",
 	  "repo" : "sprantic/sprantic-plugin-html-presentation",
