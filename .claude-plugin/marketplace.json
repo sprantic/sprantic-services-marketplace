@@ -12,6 +12,15 @@
 	  "ref" : "main"
       },
       "description" : "Adds the Services consulting and delivery workflow"
+    },
+    {
+      "name" : "html-presentation",
+      "source" : {
+	  "source" : "github",
+	  "repo" : "sprantic/sprantic-plugin-html-presentation",
+	  "ref" : "main"
+      },
+      "description" : "Generate single-file HTML presentations in sprantic corporate design"
     }
   ]
 }
