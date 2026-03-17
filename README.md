@@ -2,13 +2,12 @@
 
 A curated collection of Claude Code plugins for sprantic services.
 
-> This is the **GitHub** branch. For GitLab, use the `gitlab` branch.
-
 ## Available Plugins
 
 | Plugin | Description |
 |--------|-------------|
-| [services](https://github.com/sprantic/sprantic-plugin-services) | Services consulting and delivery workflow |
+| [sprantic-services](https://github.com/sprantic/sprantic-plugin-services) | Services consulting and delivery workflow |
+| [sprantic-html](https://github.com/sprantic/sprantic-plugin-html-presentation) | Generate single-file HTML presentations in sprantic corporate design |
 
 ## Setup
 
